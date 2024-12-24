@@ -16,18 +16,29 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!</font>**
+**<font color="#990000">I am actively seeking a summer research opportunity for 2025. If you have any information or opportunities, please contact me!</font>**
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- AI-powered Systems
-- Molecular Communication
-- Bio-sensor and Bio-electronics
+- [Extremal Graph Theory](https://en.wikipedia.org/wiki/Extremal_graph_theory)
+- [Spectral Graph Theory](https://en.wikipedia.org/wiki/Spectral_graph_theory)
+- Combinatorics
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on extremal problems in graph theory, particularly those involving spectral properties of graphs. I am interested in exploring how these mathematical concepts can be applied to solve complex problems in network analysis and optimization. I am passionate about advancing the field of mathematics and contributing to meaningful research that can have practical applications in technology and data science.
 
 ---
 
 ## News and Updates
+
+- **June 2024**: Thrilled to receive the First Prize at the Shanghai University Qian Weichang College Undergraduate Research and Innovation Forum.
+- **May 2024**: Honored to have my bachelor thesis recognized as the Annual Best Thesis (Top 1/300).
+- **April 2024**: Our research on spectral extremal graphs was presented at a major conference in Japan.
+- **March 2024**: Excited to receive a prestigious scholarship for academic excellence at Shanghai University.
+- **December 2023**: Selected for a national scholarship recognizing outstanding academic achievements.
+- **June 2022**: Began my research journey at Shanghai University under the guidance of Prof. Liying Kang.
+
+
+
+
+
 
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
