@@ -8,6 +8,23 @@ title: Awards
 
 ## Scholarships
 
+
+- **November 2024**: Shanghai University Top Academic Scholarship
+
+- **October 2024**: Second Prize in the 16th National Undergraduate Mathematics Competition (School Level)
+
+- **October 2024**: First Prize at the Qian Weichang College Undergraduate Research and Innovation Forum, Shanghai University
+
+- **October 2024**: Second Prize at the Qian Weichang College Undergraduate Research and Innovation Forum, Shanghai University
+
+- **December 2023**: Shanghai University Top Academic Scholarship
+
+- **December 2023**: National Encouragement Scholarship, Shanghai University
+
+- **October 2023**: First Prize in the Essay Contest on Studying the Spirit of the 20th National Congress of the Communist Party of China, Shanghai University
+
+
+
 - June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
 - Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
 - Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
