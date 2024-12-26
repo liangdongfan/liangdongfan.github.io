@@ -10,7 +10,7 @@ Here is **Liangdong Fan(Faraday , 范良东)**.<br>
 
 I am an undergraduate student in the Department of Mathematics at Shanghai University, advised by [Prof. Liying Kang](https://en.math.shu.edu.cn/info/1017/1586.htm). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - liangdongfanshu@gmail.com
 
 ---
 
@@ -20,19 +20,19 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - [Extremal Graph Theory](https://en.wikipedia.org/wiki/Extremal_graph_theory)
 - [Spectral Graph Theory](https://en.wikipedia.org/wiki/Spectral_graph_theory)
-- Combinatorics
+- [Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)
 
-My current research focuses on extremal problems in graph theory, particularly those involving spectral properties of graphs. I am interested in exploring how these mathematical concepts can be applied to solve complex problems in network analysis and optimization. I am passionate about advancing the field of mathematics and contributing to meaningful research that can have practical applications in technology and data science.
+ These are areas I have previously explored. However, as an undergraduate student, my future interests extend beyond these topics. I am keenly interested in various aspects of Combinatorics and graph theory, such as hypergraphs, graph coloring, and structural graph theory, etc. I am eager to contribute significantly to these fields with the guidance of a mentor, potentially you!
 
 ---
 
 ## News and Updates
 
-- **June 2024**: Thrilled to receive the First Prize at the Shanghai University Qian Weichang College Undergraduate Research and Innovation Forum.
-- **May 2024**: Honored to have my bachelor thesis recognized as the Annual Best Thesis (Top 1/300).
-- **April 2024**: Our research on spectral extremal graphs was presented at a major conference in Japan.
-- **March 2024**: Excited to receive a prestigious scholarship for academic excellence at Shanghai University.
-- **December 2023**: Selected for a national scholarship recognizing outstanding academic achievements.
+- **Oct 2024**: Thrilled to receive the First Prize at the Shanghai University Qian Weichang College Undergraduate Research and Innovation Forum.
+- **Oct 2024**: 我又一年Excited to拿到了上海大学学业特等奖学金.
+- **Oct 2024**: Our research on spectral extremal graphs was 有所成就 And presented it at arxiv！
+- **March 2024**:  我加入了康丽英老师的课题组！
+- **二月 2023**: 我看完了bondy 的图论及其应用！
 - **June 2022**: Began my research journey at Shanghai University under the guidance of Prof. Liying Kang.
 
 
