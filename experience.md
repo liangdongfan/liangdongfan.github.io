@@ -4,10 +4,10 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th December 2024
-# Research Experience
 
-## Spectral Extremal Graphs of Planar Graphs with Fixed Size (Jul 2024 - Oct 2024)
+## Research Experience
+
+### Spectral Extremal Graphs of Planar Graphs with Fixed Size (Jul 2024 - Oct 2024)
 - **Location**: Shanghai, China
 - **Role**: Lead author | Supervisor: Prof. Liying Kang
 
@@ -23,7 +23,7 @@ title: Awards
 
 ---
 
-## Spectral Extremal Graphs in Planar Graphs (Oct 2024 - present)
+### Spectral Extremal Graphs in Planar Graphs (Oct 2024 - present)
 - **Location**: Shanghai, China
 - **Role**: Researcher | Supervisor: Prof. Liying Kang
 
