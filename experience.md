@@ -3,10 +3,7 @@ layout: page
 permalink: /experience/index.html
 title: Experience
 ---
-<head>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
+
 
 ## Research Experience
 
@@ -15,7 +12,7 @@ title: Experience
 - **Role**: Lead author | Supervisor: Prof. Liying Kang
 
 - **Methodological Approach**:
-  - A lower bound on $$\rho(G)$$ was given by the conjectured extremal example, where $$G$$ was always assumed to be an extremal graph.
+  - A lower bound on <math>\rho(G)</math> was given by the conjectured extremal example, where $$G$$ was always assumed to be an extremal graph.
   - Using the leading eigenvector of $$A(G)$$, we deduced that there were two vertices $$u', u''$$ whose entries in the leading eigenvector were close to 1.
   - The entries of the leading eigenvector corresponding to vertices in $$V\setminus \{u', u''\}$$ were very small, and the degrees of vertices in $$V\setminus \{u', u''\}$$ were at most 2.
   - Based on these properties, we refined the structure of $$G$$. We showed that it must be the conjectured graph.
