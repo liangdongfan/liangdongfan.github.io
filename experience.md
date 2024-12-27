@@ -4,10 +4,21 @@ permalink: /experience/index.html
 title: Experience
 ---
 <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.css">
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/auto-render.min.js"
-            onload="renderMathInElement(document.body);"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            "HTML-CSS": {
+                styles: {
+                    ".MathJax .mi": {
+                        color: "inherit"  
+                    },
+                    ".MathJax .mn": {
+                        color: "inherit"  
+                    }
+                }
+            }
+        });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 
 ## Research Experience
