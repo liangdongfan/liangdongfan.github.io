@@ -47,8 +47,17 @@ title: Experience
 
 
 
-## 国际交流经历
-- **2024**: First Prize at the Qian Weichang College Undergraduate Research and Innovation Forum, Shanghai University
-- **2024**: Second Prize in Shanghai University Mathematics Competition
+## International Exchange Experience
 
+### Tokyo International Exchange Program (Jun 2024)
+- **Location**: Tokyo, Japan
+- **Role**: Participant
+- **Key Engagements**:
+  - **Academic Visits**: Interacted with faculty and students at Waseda University, The University of Tokyo, and Shibaura Institute of Technology, focusing on mathematical and scientific disciplines.
+  - **Lectures Attended**: Engaged in discussions on quantum mechanics and information security.
+  - **Cultural Exchange**: Participated in workshops that highlighted the intersection of mathematics and technology in Japanese society.
+  <figure>
+  <img src="images/640.jpg" alt="Tokyo University" class="floatpic">
+  <figcaption>Tokyo university</figcaption>
+</figure>
 <br>
