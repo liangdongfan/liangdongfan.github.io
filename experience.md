@@ -57,7 +57,7 @@ title: Experience
   - **Lectures Attended**: Engaged in discussions on quantum mechanics and information security.
   - **Cultural Exchange**: Participated in workshops that highlighted the intersection of mathematics and technology in Japanese society.
   <figure>
-  <img src="https://liangdongfan.github.io/images/640.jpg" alt="Tokyo University" class="floatpic">
+  <img src="https://liangdongfan.github.io/images/640.jpg" alt="Tokyo University" class="exchange-image">
   <figcaption>Tokyo university</figcaption>
 </figure>
 <br>
