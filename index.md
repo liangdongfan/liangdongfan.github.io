@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://liangdongfan.github.io/caihanlin.jpg" class="floatpic">
+<img src="caihanlin.jpg" class="floatpic">
 
 Here is **Liangdong Fan(Faraday , 范良东)**.<br>
 
