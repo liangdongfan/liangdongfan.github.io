@@ -1,8 +1,14 @@
 ---
 layout: page
 permalink: /startups/index.html
-title: Skills
+title: Education & Skills
 ---
+## Education
+- **Bachelor of Mathematics and Applied Mathematics**, Shanghai University, Shanghai, China
+  - *September 2022 – Present*
+  - **GPA**: 3.76/4.0
+  - **Core Courses**: Analysis I (90), Analysis II (99), Advanced Algebra I (94), Advanced Algebra II (100), Advanced Algebra III (98), Probability and Statistics (94), Real Analysis (92), Topology (92), Analytic Geometry (95), Differential Geometry (92)
+  - **Supplementary Reading**: Bondy, J.A., & Murty, U.S.R. (1976). Graph Theory with Applications. Macmillan.
 
 ## Skills
 
