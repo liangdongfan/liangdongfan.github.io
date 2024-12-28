@@ -16,7 +16,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-**<font color="#990000">I am actively seeking a summer research opportunity for 2025. If you have any information or opportunities, please contact me!</font>**
+**<font color="#990000">I am actively seeking a self-funded research opportunity from March to July 2025. If you have any information or opportunities, please contact me!</font>**
 
 - [Extremal Graph Theory](https://en.wikipedia.org/wiki/Extremal_graph_theory)
 - [Spectral Graph Theory](https://en.wikipedia.org/wiki/Spectral_graph_theory)

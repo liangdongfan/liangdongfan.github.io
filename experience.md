@@ -59,5 +59,5 @@ title: Experience
   <figure>
   <img src="https://liangdongfan.github.io/images/640.jpg" alt="Tokyo University" class="exchange-image">
   <figcaption>Tokyo university</figcaption>
-</figure>
+
 <br>
