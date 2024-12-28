@@ -8,7 +8,7 @@ layout: page
 
 Here is **Liangdong Fan(Faraday , 范良东)**.<br>
 
-I am an undergraduate student in the Department of Mathematics at Shanghai University, advised by [Prof. Liying Kang](https://en.math.shu.edu.cn/info/1017/1586.htm). 
+I am a third-year undergraduate student majoring in Mathematics and Applied Mathematics at the Qian Weichang College of Shanghai University, under the mentorship of [Prof. Liying Kang](https://en.math.shu.edu.cn/info/1017/1586.htm). 
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - liangdongfanshu@gmail.com
 
