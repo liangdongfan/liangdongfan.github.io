@@ -36,7 +36,7 @@ title: Experience
   - Proved that for outerplanar graphs with $$m \geq 64$$ edges, the extremal graph is $$S_m$$, a star.
   - For planar graphs, showed the extremal graph as $$K_2 \vee \frac{m-1}{2} K_1$$ when $$m$$ is odd and sufficiently large, and $$K_1 \vee (S_{\frac{m-2}{2}} \cup K_1)$$ when $$m$$ is even and sufficiently large.
 
----
+<br>
 
 ### Spectral Extremal Graphs in Planar Graphs (Oct 2024 - present)
 - **Location**: Shanghai, China
@@ -45,7 +45,7 @@ title: Experience
   - For sufficiently large $$n$$, the maximum spectral radius and the unique extremal graph were determined for all planar graphs on $$n$$ vertices that do not contain $$Fan_k$$ as a subgraph, where $$Fan_k = K_1 \vee P_{k-1}$$.
   - The conjecture by Boots and Royle, and independently by Cao and Vince, positing that for $$n \geq 9$$, the planar graph with the maximum spectral radius is $$P_2 \vee P_{n-2}$$, held for $$n$$ greater than $$10^9$$.
 
-
+---
 
 ## International Exchange Experience
 
