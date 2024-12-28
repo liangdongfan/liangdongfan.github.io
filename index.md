@@ -32,7 +32,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - **Oct 2024**: Excited to have been awarded the Shanghai University Academic Excellence Scholarship (First Class) for another year!  
 - **Oct 2024**: Our research on spectral extremal graphs achieved significant progress and was presented on [arXiv](https://doi.org/10.48550/arXiv.2410.00310)!  
 - **Mar 2024**: I joined Professor Kang Liying's research group!  
-- **Feb 2023**: Finished reading *Graph Theory with Applications* by Bondy.  
+- **Feb 2024**: Finished reading *Graph Theory with Applications* by Bondy.  
 - **Sept 2022**: Began my journey at Shanghai University.  
 
 
