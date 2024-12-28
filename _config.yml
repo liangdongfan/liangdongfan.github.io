@@ -38,14 +38,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
+  - title: Education & Skills
+    url: /startups/
   - title: Experience
     url: /experience/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Education & Skills
-    url: /startups/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
