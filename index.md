@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://liangdongfan.github.io/caihanlin.jpg" class="floatpic" style="width: 90%; height: auto;">
+<img src="https://liangdongfan.github.io/caihanlin.jpg" class="floatpic">
 
-Here is **Liangdong Fan(Faraday , 范良东)**.<br>
+Here is **Liangdong Fan(范良东)**.<br>
 
 I am a third-year undergraduate student majoring in Mathematics and Applied Mathematics at the Qian Weichang College of Shanghai University, under the mentorship of [Prof. Liying Kang](https://en.math.shu.edu.cn/info/1017/1586.htm). 
 
