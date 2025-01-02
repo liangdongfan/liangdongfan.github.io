@@ -18,12 +18,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **<font color="#990000">I am actively seeking a self-funded research opportunity from March to July 2025. If you have any information or opportunities, please contact me!</font>**
 
-- [Extremal Graph Theory](https://en.wikipedia.org/wiki/Extremal_graph_theory)
-- [Spectral Graph Theory](https://en.wikipedia.org/wiki/Spectral_graph_theory)
-- [Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)
 
- These are areas I have previously explored. However, as an undergraduate student, my future interests extend beyond these topics. I am keenly interested in various aspects of Combinatorics and graph theory, such as hypergraphs, graph coloring, and structural graph theory, etc. I am eager to contribute significantly to these fields with the guidance of a mentor, potentially you!
+My research interest lies broadly in Graph Theory and Combinatorics, including Extremal Graph Theory, Spectral Graph Theory
+, Hypergraphs, and Graph coloring.
 
+ 
 ---
 
 ## News and Updates
